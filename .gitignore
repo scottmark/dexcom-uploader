@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 .idea
 *.iml
 gen
 out
 *.apk
 logs
+=======
+bower_components/
+node_modules/
+
+.idea/
+*.iml
+my.env
+
+*.env
+static/bower_components/
+.*.sw?
+
+.vagrant
+>>>>>>> upstream/master
