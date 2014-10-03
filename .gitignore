@@ -16,6 +16,12 @@ my.env
 *.env
 static/bower_components/
 .*.sw?
+.DS_Store
 
 .vagrant
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+/iisnode
+/web.config
 >>>>>>> upstream/master
